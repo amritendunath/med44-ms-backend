@@ -1,4 +1,4 @@
-# neroxchat.com - Medical AI Assistant Platform
+# MED44 by neroxchat.com - Medical AI Assistant Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
